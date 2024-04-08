@@ -12,7 +12,7 @@ Use: I've done this for a restaurant that has two touchscreen monitors connected
 
 Follow instuctions bellow:
 --------------------------------
-1.Install DisplayFusionSetup-10.1.2.exe OR download from official DisplayFusion website (www.displayfusion.com)
+1.Download DisplayFusion from official DisplayFusion website (www.displayfusion.com)
 	- This alows you to switch the app window inbetween all monitors no matter what side it is set on
 	  in windows display settings. DisplayFusion has that on default to "CTRL+WindowsKey+X".
 
