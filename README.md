@@ -1,5 +1,5 @@
 Made and put together by KaTzeen.
-I'm not an native English speaker so please forgive me my grammar erros.
+I'm not an native English speaker so please forgive me my grammar errors.
 
 What does it do: This makes your desired app run on startup on two extended displays with two
  instances of the app each on its own display automaticaly. If you have more displays and want
