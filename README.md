@@ -1,4 +1,4 @@
-Made and put together by KaTzeen.
+Made and put together by Maven.
 I'm not an native English speaker so please forgive me my grammar errors.
 
 What does it do: This makes your desired app run on startup on two extended displays with two
